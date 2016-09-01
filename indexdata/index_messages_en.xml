@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<krpano>
+
+<!-- ************************ -->
+<!--         Messages         -->
+<!-- ************************ -->
+
+  <data name="en_project_title"><![CDATA[Пламен]]></data>
+
+
+
+  <data name="en_pano40_title"><![CDATA[Коридор]]></data>
+
+
+  <data name="en_pano42_title"><![CDATA[Кухня]]></data>
+
+
+  <data name="en_pano44_title"><![CDATA[Дневна]]></data>
+
+
+  <data name="en_pano38_title"><![CDATA[Баня1]]></data>
+
+
+  <data name="en_pano36_title"><![CDATA[Баня2]]></data>
+
+
+
+
+
+
+  <data name="en_prevnexttheme2prevSceneTip"><![CDATA[Previous Scene]]></data>
+  <data name="en_prevnexttheme2nextSceneTip"><![CDATA[Next Scene]]></data>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+</krpano>
