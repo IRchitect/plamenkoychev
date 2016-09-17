@@ -15,13 +15,22 @@
   <data name="en_pano42_title"><![CDATA[Кухня]]></data>
 
 
+  <data name="en_pano106_title"><![CDATA[Дневна]]></data>
+
+
   <data name="en_pano44_title"><![CDATA[Дневна]]></data>
+
+
+  <data name="en_pano74_title"><![CDATA[Спалня]]></data>
+
+
+  <data name="en_pano115_title"><![CDATA[Спалня 2]]></data>
 
 
   <data name="en_pano38_title"><![CDATA[Баня]]></data>
 
 
-  <data name="en_pano74_title"><![CDATA[Спалня]]></data>
+  <data name="en_pano113_title"><![CDATA[Баня 2]]></data>
 
 
 
@@ -30,6 +39,15 @@
 
   <data name="en_prevnexttheme2prevSceneTip"><![CDATA[Previous Scene]]></data>
   <data name="en_prevnexttheme2nextSceneTip"><![CDATA[Next Scene]]></data>
+
+
+
+
+
+
+
+
+
 
 
 
